@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/Her
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/AbeelSkeet/">
+  <a href="https://steamcommunity.com/id/AbelSkeet/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbelSkeet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelSkeet&layout=compact&langs_count=7&theme=dark"/>
 </div>
