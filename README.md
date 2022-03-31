@@ -23,6 +23,6 @@
   ##
   
   <div> 
-  <a href="https://steamcommunity.com/id/AbeelSkeet/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/AbelSkeet/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/user/TheNicolasaze" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
